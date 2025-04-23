@@ -1,6 +1,6 @@
 # Overview
 We all like to watch TV.  
-Today, we have an infinite collection of titles to pick from. However, with everything available for us to watch , it is becoming harder and harder to find what to watch
+Today, we have an infinite collection of titles to pick from. However, with everything available for us to watch , it is becoming harder and harder to find what to watch.
 WeWatch is a social platform (web application) helping us to select what to watch.
  
 # Main scenarios:
@@ -49,6 +49,7 @@ This manages the core rating functionality:
 * Curated initial content (IMDB top-ranked titles)
 * speed rating. Serve me with titles from IMDB (according to some filter) for me to rak.
 * Personal viewing history tracking
+* Personal watch list thatincludes movies the user identifies forhimself and want to remember.
 
 ### Recommendation Engine
 This implements the various recommendation algorithms:
